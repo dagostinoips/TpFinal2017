@@ -2,7 +2,7 @@
 
 namespace TpFinal;
 
-class Tarjeta {
+class Tarjeta implements Tarjeta {
 
     public function saldo() {
         return 0;
